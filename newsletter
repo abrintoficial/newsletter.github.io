@@ -1,0 +1,88 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Newsletter ABRINT</title>
+</head>
+
+<body style="margin:0; padding:0; background-color:#f4f4f4;">
+
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#f4f4f4">
+    <tr>
+      <td align="center" style="padding:30px 10px;">
+
+        <!-- Container -->
+        <table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="width:600px; max-width:600px; border-collapse:collapse;">
+
+          <!-- Imagem -->
+          <tr>
+            <td align="center">
+
+              <a href="https://www.canva.com/design/DAHJp-yZogI/OowZMn2LzZIRGWBZI2w5fg/view?utm_content=DAHJp-yZogI&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank">
+
+                <img 
+                  src="https://SEU-LINK-DA-IMAGEM.jpg"
+                  alt="Newsletter ABRINT"
+                  width="600"
+                  border="0"
+                  style="display:block; width:100%; max-width:600px; height:auto; border:0;"
+                >
+
+              </a>
+
+            </td>
+          </tr>
+
+          <!-- Texto -->
+          <tr>
+            <td align="center" style="padding:30px 40px 10px 40px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:24px; color:#333333;">
+
+              Confira a edição completa da Newsletter ABRINT.
+
+            </td>
+          </tr>
+
+          <!-- Botão -->
+          <tr>
+            <td align="center" style="padding:10px 40px 40px 40px;">
+
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td align="center" bgcolor="#0066cc" style="border-radius:6px;">
+
+                    <a 
+                      href="https://www.canva.com/design/DAHJp-yZogI/OowZMn2LzZIRGWBZI2w5fg/view?utm_content=DAHJp-yZogI&utm_campaign=designshare&utm_medium=embeds&utm_source=link"
+                      target="_blank"
+                      style="
+                        display:inline-block;
+                        padding:14px 28px;
+                        font-family:Arial, Helvetica, sans-serif;
+                        font-size:16px;
+                        font-weight:bold;
+                        color:#ffffff;
+                        text-decoration:none;
+                        background-color:#0066cc;
+                        border-radius:6px;
+                      "
+                    >
+                      Acessar newsletter
+                    </a>
+
+                  </td>
+                </tr>
+              </table>
+
+            </td>
+          </tr>
+
+        </table>
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
+```
